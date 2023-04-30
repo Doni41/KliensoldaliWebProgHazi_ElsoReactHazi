@@ -1,4 +1,4 @@
-import { FunctionTester } from "../function-tester/FunctionTester";
+import { FunctionTester } from "../views/function-tester/FunctionTester";
 import theSimpleExample from "./example-data/the-simple-example";
 import theComplexExample from "./example-data/the-complex-example";
 
